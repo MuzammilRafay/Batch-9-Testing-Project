@@ -71,6 +71,9 @@ https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
 dono keys ko match karayega github jab bi ap koi command run karoge ap
 
 is liye local wali key ko apko github par add karna hoga 
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
 
 
 https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
