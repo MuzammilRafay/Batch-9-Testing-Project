@@ -64,3 +64,29 @@ dono keys ko match karayega github jab bi ap koi command run karoge ap
 is liye local wali key ko apko github par add karna hoga 
 
 
+
+
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
+
+abdul rehman (header) -> branch-name -> header-working
+muzammil sahab (sidebar) -> branch-name -> sidebar-working
+musaddiq sahab (main content) -> branch-name -> main-content-working
