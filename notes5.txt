@@ -65,28 +65,33 @@ is liye local wali key ko apko github par add karna hoga
 
 
 
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
 
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
+dono keys ko match karayega github jab bi ap koi command run karoge ap
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
+is liye local wali key ko apko github par add karna hoga 
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
 
-abdul rehman (header) -> branch-name -> header-working
-muzammil sahab (sidebar) -> branch-name -> sidebar-working
-musaddiq sahab (main content) -> branch-name -> main-content-working
+dono keys ko match karayega github jab bi ap koi command run karoge ap
+
+is liye local wali key ko apko github par add karna hoga 
+
+
+https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github
+
+
+dono keys ko match karayega github jab bi ap koi command run karoge ap
+
+is liye local wali key ko apko github par add karna hoga 
+
+
+asdasdasd
+
+asdasdasd
